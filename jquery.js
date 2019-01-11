@@ -98,29 +98,29 @@ function scrollx(p){
 }
 
 //首页金沙广告
-adjsIndex="<A href=\"https://dd461.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fucqkirrsjg30xc02s0wj.gif\" width=\"100%\"><\/A>";
-adhgIndex="<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fucqqigkl4g30xc02sjte.gif\" width=\"100%\"><\/A>";
+adjsIndex="<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fucqkirrsjg30xc02s0wj.gif\" width=\"100%\"><\/A>";
+adhgIndex="<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fucqqigkl4g30xc02sjte.gif\" width=\"100%\"><\/A>";
 
-xdjsIndex="<A href=\"https://dd461.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fucqkirrsjg30xc02s0wj.gif\" width=\"100%\"><\/A>";
-xdhgIndex="<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fucqqigkl4g30xc02sjte.gif\" width=\"100%\"><\/A>";
+xdjsIndex="<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fucqkirrsjg30xc02s0wj.gif\" width=\"100%\"><\/A>";
+xdhgIndex="<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fucqqigkl4g30xc02sjte.gif\" width=\"100%\"><\/A>";
 
 
 //广告顶部文字
 //adtoptxt=""
 
 //广告顶部通栏
- adtop=adtop+"<A href=\"https://www.48vc.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fv6298apvlg30xc05kag8.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://www.48vc.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fv6298apvlg30xc05kag8.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://dd461.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://dd461.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/0060lm7Tly1fwqox63tyzg30xc05k7fz.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/0060lm7Tly1fwqox63tyzg30xc05k7fz.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fv6298apvlg30xc05kag8.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fv6298apvlg30xc05kag8.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/0060lm7Tly1fwqox63tyzg30xc05k7fz.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/0060lm7Tly1fwqox63tyzg30xc05k7fz.gif\" width=\"100%\"><\/A>";
 	 
-	//adtop=adtop+"<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fucqqigkl4g30xc02sjte.gif\" width=\"100%\"><\/A>";
+	//adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fucqqigkl4g30xc02sjte.gif\" width=\"100%\"><\/A>";
 //广告2下
-	adfoot=adfoot+"<A href=\"https://www.48vc.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1ftcyu10gdwg30qo01ydsw.gif\" width=\"100%\"><\/A>";
-	adfoot=adfoot+"<A href=\"https://dd461.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fucqkirrsjg30xc02s0wj.gif\" width=\"100%\"><\/A>";
-    adfoot=adfoot+"<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1fwqp0mnze0g30xc02stb3.gif\" width=\"100%\"><\/A>";
+	adfoot=adfoot+"<A href=\"https://www.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1ftcyu10gdwg30qo01ydsw.gif\" width=\"100%\"><\/A>";
+	adfoot=adfoot+"<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"https://wx1.sinaimg.cn/large/006fVPCvly1fucqkirrsjg30xc02s0wj.gif\" width=\"100%\"><\/A>";
+    adfoot=adfoot+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1fwqp0mnze0g30xc02stb3.gif\" width=\"100%\"><\/A>";
     
    // adfoot=adfoot+"<\/div></div>";
 
@@ -136,11 +136,11 @@ xdhgIndex="<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img b
 //对联和漂浮
 	adLeftCoupleTop=230;
 	adLeftCoupleLeft=0;
-	adLeftCoupleTxt='<a href="https://dd461.com/main.html?m=reg" target="_blank"><img src="https://wx4.sinaimg.cn/large/006fVPCvly1fucqsc2h7ug304609qgo0.gif" border="0" width="150" height="350" class="pho_hide"></a>';
+	adLeftCoupleTxt='<a href="https://www.51jsjs.com/main.html?m=reg" target="_blank"><img src="https://wx4.sinaimg.cn/large/006fVPCvly1fucqsc2h7ug304609qgo0.gif" border="0" width="150" height="350" class="pho_hide"></a>';
 
 	adRightCoupleTop=230;
 	adRightCoupleRight=0;
-    adRightCoupleTxt='<a href="https://x32p.com/main.html?m=reg" target="_blank"><img src="https://wx4.sinaimg.cn/large/006fVPCvly1fucqo5ustig304609qwgz.gif" border="0" width="150" height="350" class="pho_hide"></a>';
+    adRightCoupleTxt='<a href="https://www.895nn.com/main.html?m=reg" target="_blank"><img src="https://wx4.sinaimg.cn/large/006fVPCvly1fucqo5ustig304609qwgz.gif" border="0" width="150" height="350" class="pho_hide"></a>';
 
 	//adLeftFloatLeft=0;
 	//adLeftFloatBottom=0;
@@ -213,7 +213,7 @@ xdhgIndex="<A href=\"https://x32p.com/main.html?m=reg\" target=\"_blank\"><img b
 	vodhelp=vodhelp+'<a href="/help/m-play.html" target="_blank"><span style="color:#ff0000;line-height:1.5;font-size:16px;">【手机播放教程】</span></a><a href="/help/pc-play.html" target="_blank"><span style="color:#ff0000;line-height:1.5;font-size:16px;">【电脑播放教程】</span></a>';
 	//vodhelp1=vodhelp1+'html代码'';
 	//播放頁文字
-    playhelp='<span class="playerTip"><a style="background: #d5210f;color:#fff;margin-bottom:5px;" href="https://x32p.com/main.html?m=reg" target="_blank" >新用户注册送68元，首存最高送2888元!!</a></span>';
+    playhelp='<span class="playerTip"><a style="background: #d5210f;color:#fff;margin-bottom:5px;" href="https://www.895nn.com/main.html?m=reg" target="_blank" >新用户注册送68元，首存最高送2888元!!</a></span>';
 	palyhelp='<span class="playerTip"><a style="color:#fff;"href="/help/x1.html" target="_blank" class="white" target="_blank">建议使用谷歌或苹果自带浏览,若无法播放请点击查看帮助教程!</a></span>';
 
 	if(navigator.userAgent.match(/Android/i)) {
