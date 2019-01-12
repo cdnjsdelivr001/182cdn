@@ -16,9 +16,9 @@ var topmenu=' <table style="width:100%;text-align: center;">'+
 '<tr>'+
 '<td style="padding:2px 0px"><a href="/Html/112/">美颜巨乳</a></td>'+
 '<td><a href="/Html/113/">颜射吃精</a></td>'+
-'<td><a href="https://www.48vc.com/main.html?m=reg" target="_blank" style="color:#FFA000"><b>开元棋牌</b></a></td>'+
-'<td><a href="https://x32p.com/main.html?m=reg" target="_blank" style="color:#FFA000"><b>皇冠体育</b></a></td>'+
-'<td><a href="https://dd461.com/main.html?m=reg" target="_blank" style="color:#FFA000"><b>金沙赌场</b></a></td>'+
+'<td><a href="https://www.018ww.com/main.html?m=reg" target="_blank" style="color:#FFA000"><b>开元棋牌</b></a></td>'+
+'<td><a href="https://www.895nn.com/main.html?m=reg" target="_blank" style="color:#FFA000"><b>皇冠体育</b></a></td>'+
+'<td><a href="https://www.51jsjs.com/main.html?m=reg" target="_blank" style="color:#FFA000"><b>金沙赌场</b></a></td>'+
 '</tr>'+
 '</tbody></table>';
 document.writeln(topmenu);
