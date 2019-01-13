@@ -110,12 +110,14 @@ xdhgIndex="<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><
 
 //广告顶部通栏
  adtop=adtop+"<A href=\"https://www.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fv6298apvlg30xc05kag8.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://www.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fv6298apvlg30xc05kag8.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"100%\"><\/A>";
  adtop=adtop+"<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"100%\"><\/A>";
  adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/0060lm7Tly1fwqox63tyzg30xc05k7fz.gif\" width=\"100%\"><\/A>";
- adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/0060lm7Tly1fwqox63tyzg30xc05k7fz.gif\" width=\"100%\"><\/A>";
-	 
+ adtop=adtop+"<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwr0vc5osg30qo028aeo.gif\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"https://www.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"大香蕉\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwphv11uwg30r803wte8.gif\" width=\"100%\"><\/A>";
+ 	 
 	//adtop=adtop+"<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1fucqqigkl4g30xc02sjte.gif\" width=\"100%\"><\/A>";
 //广告2下
 	adfoot=adfoot+"<A href=\"https://www.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" src=\"https://wx2.sinaimg.cn/large/006fVPCvly1ftcyu10gdwg30qo01ydsw.gif\" width=\"100%\"><\/A>";
