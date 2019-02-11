@@ -109,8 +109,8 @@ xdhgIndex="<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><
 //adtoptxt=""
 
 //广告顶部通栏
- adtop=adtop+"<A href=\"http://66.42.109.186:8088/182.apk\" target=\"_blank\"><img border=\"0\" alt=\"app\" src=\"http://ww1.sinaimg.cn/large/007j5lWEly1g018uxoeagj30xc01e75x.jpg\" width=\"100%\"><\/A>";
  adtop=adtop+"<A href=\"http://66.42.109.186:8088\" target=\"_blank\"><img border=\"0\" alt=\"dzfb\" src=\"http://ww1.sinaimg.cn/large/007j5lWEly1fzushu1cknj30xc01e769.jpg\" width=\"100%\"><\/A>";
+ adtop=adtop+"<A href=\"http://66.42.109.186:8088/182.apk\" target=\"_blank\"><img border=\"0\" alt=\"app\" src=\"http://ww1.sinaimg.cn/large/007j5lWEly1g018uxoeagj30xc01e75x.jpg\" width=\"100%\"><\/A>";
  adtop=adtop+"<A href=\"https://m.018ww.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"太阳城\" src=\"https://wx3.sinaimg.cn/large/0060lm7Tly1fz9kp421w6g30xc05k0yv.gif\" width=\"100%\"><\/A>";
  adtop=adtop+"<A href=\"https://m.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"金沙\" src=\"https://wx1.sinaimg.cn/large/0060lm7Tly1ftwrlidrixg30xc05kwjq.gif\" width=\"100%\"><\/A>";
  adtop=adtop+"<A href=\"https://m.895nn.com/main.html?m=reg\" target=\"_blank\"><img border=\"0\" alt=\"皇冠\" src=\"https://wx2.sinaimg.cn/large/0060lm7Tly1fz9km26ee2g30xc05kgvr.gif\" width=\"100%\"><\/A>";
