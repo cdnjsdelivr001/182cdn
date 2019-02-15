@@ -126,10 +126,7 @@ xdhgIndex="<A href=\"https://www.895nn.com/main.html?m=reg\" target=\"_blank\"><
     adfoot=adfoot+"<A href=\"https://m.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"https://wx4.sinaimg.cn/large/006fVPCvly1fy6hwzkchbg30qo01ydnv.gif\" width=\"100%\"><\/A>";
     adfoot=adfoot+"<A href=\"https://m.895nn.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"https://pic.99thingz.com/images/hg-s.gif\" width=\"100%\"><\/A>";
     adfoot=adfoot+"<A href=\"https://m.895nn.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"https://pic.99thingz.com/images/hg-s.gif\" width=\"100%\"><\/A>";
-    adfoot=adfoot+"<A href=\"https://m.51jsjs.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"http://ww1.sinaimg.cn/large/007j5lWEly1fzx1dttg5rg30xc05kncv.gif\" width=\"100%\"><\/A>";
-    adfoot=adfoot+"<A href=\"https://m.895nn.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"http://ww1.sinaimg.cn/large/007j5lWEly1fzx1eu8n16g30xc05kk2d.gif\" width=\"100%\"><\/A>";
-    adfoot=adfoot+"<A href=\"https://m.018ww.com/main.html?m=reg\" target=\"_blank\"><img alt=\"182tv大香蕉\" border=\"0\" src=\"http://ww1.sinaimg.cn/large/007j5lWEly1fzx1fovf3og30xc05kn6w.gif\" width=\"100%\"><\/A>";
- 
+
    // adfoot=adfoot+"<\/div></div>";
 
 
